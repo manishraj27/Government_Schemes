@@ -166,16 +166,16 @@ nav a {
 .content {
     border: 1px solid #ccc;
     border-radius: 8px;
-    overflow: hidden; /* Clear the float */
+    overflow: hidden; 
     margin: 20px;
 }
 
 .content img {
     float: left;
-    max-width: 40%; /* Adjust as needed */
+    max-width: 40%; 
     margin: 0 20px 20px 0;
-    border-right: 1px solid #ccc; /* Add a border between image and text */
-    border-bottom: 1px solid #ccc; /* Add a border below the image */
+    border-right: 1px solid #ccc; 
+    border-bottom: 1px solid #ccc; 
     border-radius: 8px;
 }
 
